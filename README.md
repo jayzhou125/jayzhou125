@@ -1,10 +1,72 @@
-- 👋 Hi, I’m Jay!
-- 👀 I’m a software developer that has experiences in robotics, web dev, and full-stack applications. 
-- 🌱 I graduated from the University of Pittsburgh with a degree in Computer Science, currently work as a full-time developer/software consultant; part-time researcher, and also a part-time staff engineer at Meetfood (a skydeck funded start-up), check our landing page [meetfood.us](https://meetfood.us/). 
-- 💞️ I’m looking to collaborate on Open Source projects or anything interesting that you are working on.
-- 📫 You can reach me at jayhope125@gmail.com or connect me on http://linkedin.com/in/jayzhou125. CHEERS!
+## Hi There, I'm Jay 👋
 
-<!---
-jayzhou125/jayzhou125 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Founding Member of **MeetFood** - a **SkyDeck 💸funded** start-up
+
+Check out our Landing Page: 
+
+[![Website](https://img.shields.io/website?label=MeetFood.us&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://meetfood.us/)
+
+### I'm a 💻Developer, 🔬Researcher, 👨‍💼Entrepreneur, 🎤Singer, 👨‍✈️Pilot, 🍔Foodie
+- 🏫 I graduated at University of Pittsburgh with a Computer Science Degree.    
+- 👀 I’m looking to collaborate on Open Source projects or anything interesting that you are working on.
+- 🥅 2022 Goals: Start my own Youtube Channel.
+- 👂  Here's quick list of my cover songs if you curious about my voice, Link is [here](https://www.voices.com/profile/jayzhou/#skill=singers?offset=5).
+- 📫 You can reach me through Email or connect me on LinkedIn. Link is down below. CHEERS!
+
+## Connect with me:
+
+[<img align="left" alt="jayhope125" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+[<img align="left" alt="jayzhou125 | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br />
+
+## Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+<img align="left" alt="java" width="28px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
+
+<img align="left" alt="python" width="28px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
+
+<img align="left" alt="B" width="28px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" />
+
+<img align="left" alt="C" width="28px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />
+
+<img align="left" alt="C++" width="28px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
+
+<img align="left" alt="C#" width="28px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" />
+
+<img align="left" alt="arduino" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/arduino.svg" />
+
+<img align="left" alt="HTML5" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+
+<img align="left" alt="CSS3" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+
+<img align="left" alt="jetbrains" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jetbrains.svg" />
+
+<img align="left" alt="JavaScript" width="28px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" />
+
+<img align="left" alt="React" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+
+<img align="left" alt="Node.js" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+
+<img align="left" alt="json" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/json.svg" />
+
+<img align="left" alt="jira" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jira.svg" />
+
+<img align="left" alt="SQL" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+
+<img align="left" alt="GitHub" width="28px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" />
+
+<br />
+<br />
+
+## GitHub Stats:
+
+![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayzhou125&show_icons=true&count_private=true&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayzhou125&layout=compact&langs_count=8&theme=vue)
+
+
+
+
+[email]: mailto:jayhope125@gmail.com
+[linkedin]: https://linkedin.com/in/jayzhou125
