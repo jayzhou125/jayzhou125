@@ -2,7 +2,9 @@
 
 Founding Member of **MeetFood** - a **SkyDeck 💸funded** start-up
 
-Check out our Landing Page: 
+**Download the APP from [Apple Store](https://apps.apple.com/us/app/meetfood-explore-reviews/id1603020687)!**
+
+Or check out our Landing Page: 
 
 [![Website](https://img.shields.io/website?label=MeetFood.us&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://meetfood.us/)
 
