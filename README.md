@@ -11,7 +11,7 @@ Or check out our Landing Page:
 ### I'm a 💻Developer, 🔬Researcher, 👨‍💼Entrepreneur, 🎤Singer, 👨‍✈️Pilot, 🍔Foodie
 - 🏫 I graduated at University of Pittsburgh with a Computer Science Degree.    
 - 👀 I’m looking to collaborate on Open Source projects or anything interesting that you are working on.
-- 🥅 2022 Goals: Start my own Youtube Channel.
+- 🥅 2025 Goals: Start getting into GenAI applications.
 - 👂  Here's quick list of my cover songs if you curious about my voice, Link is [here](https://www.voices.com/profile/jayzhou/#skill=singers?offset=5).
 - 📫 You can reach me through Email or connect me on LinkedIn. Link is down below. CHEERS!
 
